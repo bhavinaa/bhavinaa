@@ -1,7 +1,6 @@
-# Hi there, I'm Bhavina! 👋
+# Hi there, I'm Bhavina! 
 
-![github-header-image](https://github.com/user-attachments/assets/ba40aec4-3ee5-4c86-966b-329990d84724)
-
+![github-header-image (3)](https://github.com/user-attachments/assets/4182fce0-5e69-4032-9185-e806bc905b6a)
 
 I'm a passionate about entrepreneurship and buildign things. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. I especially want to create things that can create an impact, and make a change in people's lives.
 
