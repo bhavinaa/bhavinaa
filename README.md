@@ -49,6 +49,8 @@ I'm a passionate about entrepreneurship and buildign things. I love tackling com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavinaa&show_icons=true&theme=radical)
 
+have this year to gamify my github experience, for a more productive, and more coding days in 2025
+
 ![](https://komarev.com/ghpvc/?username=bhavinaa&base=10)
 
 ## Get in Touch 📬
