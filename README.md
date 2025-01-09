@@ -47,9 +47,9 @@ I'm a passionate about entrepreneurship and buildign things. I love tackling com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhavinaa&theme=dark)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=bhavinaa&base=0)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavinaa&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavinaa&show_icons=true&theme=merco)
+![](https://komarev.com/ghpvc/?username=bhavinaa&base=10)
 
 ## Get in Touch 📬
 
