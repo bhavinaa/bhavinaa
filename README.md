@@ -2,8 +2,6 @@
 
 ![Banner Image](your_banner_image_url_here)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhavinaa&theme=dark)](https://git.io/streak-stats)
-
 ## About Me 🚀
 
 I'm a passionate about entrepreneurship and buildign things. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. I especially want to create things that can create an impact, and make a change in people's lives.
@@ -43,6 +41,13 @@ I'm a passionate about entrepreneurship and buildign things. I love tackling com
 ## Featured Projects 💻
 
 #COMING SOON
+
+
+## Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhavinaa&theme=dark)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
 
 ## Get in Touch 📬
 
