@@ -4,7 +4,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bhavinaa)](https://git.io/streak-stats)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavinaa)](https://git.io/streak-stats)
 ## About Me 🚀
 
 I'm a passionate about entrepreneurship and buildign things. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. I especially want to create things that can create an impact, and make a change in people's lives.
