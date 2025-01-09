@@ -51,7 +51,7 @@ have this year to gamify my github experience, for a more productive, and more c
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]** 
+- **[Personal Website / Blog]** https://bhavinaa-personal-website.vercel.app/
 - **[LinkedIn]** www.linkedin.com/in/bhavina-sk
 - **[Twitter (also known as X)]** still thinking if it is worth
 
