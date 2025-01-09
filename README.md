@@ -1,6 +1,6 @@
 # Hi there, I'm Bhavina! 👋
 
-![Banner Image](your_banner_image_url_here
+![Banner Image](./your-header-image-name.png)
 
 ## About Me 🚀
 
