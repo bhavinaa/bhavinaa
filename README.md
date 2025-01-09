@@ -1,6 +1,7 @@
 # Hi there, I'm Bhavina! 👋
 
 ![Banner Image](your_banner_image_url_here)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bhavinaa)](https://git.io/streak-stats)
 
 ## About Me 🚀
 
