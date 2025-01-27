@@ -6,7 +6,7 @@ I'm a passionate about entrepreneurship and buildign things. I love tackling com
 - 🔭 Working on: coming soon
 - 🌍 Languages: python, Java, JavaScript
 - 📫 How to reach me: bhavina.sk.2024@gmail.com
-- ⚡ Fun fact: I love to indian music
+- ⚡ Fun fact: I love to dance to indian music
 
 
 ## Tech Stack 🧠
