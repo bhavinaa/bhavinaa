@@ -38,14 +38,9 @@ I'm a passionate about entrepreneurship and buildign things. I love tackling com
 
 #COMING SOON
 
-
-## Stats
-
-![](https://komarev.com/ghpvc/?username=bhavinaa&base=10)
-
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]** https://bhavinaa-personal-website.vercel.app/
+- **[Personal Website / Blog]** 
 - **[LinkedIn]** www.linkedin.com/in/bhavina-sk
 - **[Twitter (also known as X)]** still thinking if it is worth
 
